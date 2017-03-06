@@ -5,7 +5,6 @@ menu:
   分类: /categories
   标签: /tags
   关于: /about
-  Github: https://github.com/navyxie
 
 rss: /atom.xml
 
@@ -49,7 +48,7 @@ toc:
 
 # Author information
 author:
-  github: navyxie
+  github: koken223
 
 # duoshuo
 duoshuo_shortname: navyxie
